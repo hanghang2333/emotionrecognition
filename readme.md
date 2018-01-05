@@ -1,6 +1,8 @@
 需要完成的任务内容为:对图片里的人脸进行检测并对其表情进行分类。
 
-项目代码地址:[代码地址链接](https://git-core.megvii-inc.com/lihang/EmotionRecognition)
+项目代码地址:[代码地址链接](https://github.com/hanghang2333/emotionrecognition)
+
+
 
 ####数据简介:
 
