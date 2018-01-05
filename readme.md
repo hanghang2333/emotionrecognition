@@ -2,6 +2,8 @@
 
 项目代码地址:[代码地址链接](https://github.com/hanghang2333/emotionrecognition)
 
+博客地址链接:[表情识别](http://www.jianshu.com/writer#/notebooks/14630615/notes/22134863)
+
 
 
 ####数据简介:
